@@ -12,11 +12,11 @@ Welcome to the Introduction to **Object-Oriented Programming (OOP) using Java** 
   - Polymorphism
 - Getting Started with Java
 - Resources
-- [JNTU LAB programs](#Lists-of-Experiments:)
+- [JNTU LAB programs](#Lists-of-Experiments)
 
 
 ## OBJECT ORIENTED PROGRAMMING THROUGH JAVA LAB
-### Lists of Experiments:
+### Lists of Experiments
 
 1.   Use Eclipse or Net bean platform and acquaint yourself with the various menus. Create a test project, add a test class, and run it. See how you can use auto suggestions, auto fill. Try code formatter and code refactoring like renaming variables, methods, and classes. Try debug step by step with a small program of about 10 to 15 lines which contains at least one if else condition and a for loop. [Solution](#Getting-Started)
 
