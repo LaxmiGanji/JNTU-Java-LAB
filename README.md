@@ -1,4 +1,19 @@
-# JNTU-Java-LAB
+# Introduction to Object-Oriented Programming (OOP) using Java
+
+Welcome to the Introduction to **Object-Oriented Programming (OOP) using Java** repository! This guide provides a comprehensive introduction to the fundamental concepts of Object-Oriented Programming and how they are implemented in Java. 
+
+### Table of Contents
+
+- What is Object-Oriented Programming (OOP)?
+- Key Concepts of OOP
+  - Classes and Objects
+  - Encapsulation
+  - Inheritance
+  - Polymorphism
+- Getting Started with Java
+- Resources
+- [JNTU LAB programs](#Lists-of-Experiments:)
+
 
 ## OBJECT ORIENTED PROGRAMMING THROUGH JAVA LAB
 ### Lists of Experiments:
