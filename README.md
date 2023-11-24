@@ -18,7 +18,7 @@ Welcome to the Introduction to **Object-Oriented Programming (OOP) using Java** 
 ## OBJECT ORIENTED PROGRAMMING THROUGH JAVA LAB
 ### Lists of Experiments
 
-1.   Use Eclipse or Net bean platform and acquaint yourself with the various menus. Create a test project, add a test class, and run it. See how you can use auto suggestions, auto fill. Try code formatter and code refactoring like renaming variables, methods, and classes. Try debug step by step with a small program of about 10 to 15 lines which contains at least one if else condition and a for loop. [Solution](#Getting-Started)
+1.   Try debug step by step with small program of about 10 to 15 lines which contains at least one if else condition and a for loop(Printing Prime numbers in a given range).
 
 2.   Write a Java program that works as a simple calculator. Use a grid layout to arrange buttons for the digits and for the +, -,*, % operations. Add a text field to display the result. Handle any possible exceptions like divided by zero.
 
