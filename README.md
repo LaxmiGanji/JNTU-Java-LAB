@@ -6,7 +6,7 @@ Welcome to the Introduction to **Object-Oriented Programming (OOP) using Java** 
 
 - What is Object-Oriented Programming (OOP)?
 - Key Concepts of OOP
-  - [Classes and Objects](#class-and-object.md)
+  - [Classes and Objects](class-and-object.md)
   - Encapsulation
   - Inheritance
   - Polymorphism
