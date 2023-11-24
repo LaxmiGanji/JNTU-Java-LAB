@@ -9,7 +9,7 @@ Welcome to the Introduction to **Object-Oriented Programming (OOP) using Java** 
   - [Classes and Objects](class-and-object.md)
   - [Abstraction](Abstraction.md)
   - [Encapsulation](Encapsulation.md)
-  - Inheritance
+  - [Inheritance](Inheritance.md)
   - Polymorphism
 - Getting Started with Java
 - Resources
