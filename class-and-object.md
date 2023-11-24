@@ -1,4 +1,4 @@
-**CLASS**
+## CLASS
 
 A class is a user-defined blueprint or prototype from which objects are created.
 It represents the set of properties or methods that are common to all objects of one type.
@@ -12,7 +12,7 @@ In general, class declarations can include these components in order:
 4. Interfaces (if any): A comma-separated list of interfaces implemented by the class, if any, preceded by the keyword implements. A class can implement more than one interface.
 5. Body: The class body is surrounded by braces, { }.
 
-**OBJECT**
+## OBJECT
 
 An object is a basic unit of Object-Oriented Programming that represents real-life entities.
 A typical Java program creates many objects, which as you know, interact by invoking methods. 
@@ -26,7 +26,7 @@ An object mainly consists of:
 A method can perform some specific task without returning anything. Methods allow us to reuse the code without retyping it, which is why they are considered time savers. 
 In Java, every method must be part of some class, which is different from languages like C, C++, and Python. 
 
-***Example***
+**Example**
 ```
 public class GFG { 
 	
