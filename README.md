@@ -8,7 +8,7 @@ Welcome to the Introduction to **Object-Oriented Programming (OOP) using Java** 
 - Key Concepts of OOP
   - [Classes and Objects](class-and-object.md)
   - [Abstraction](Abstraction.md)
-  - Encapsulation
+  - [Encapsulation](Encapsulation.md)
   - Inheritance
   - Polymorphism
 - Getting Started with Java
