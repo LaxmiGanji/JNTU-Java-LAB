@@ -18,7 +18,7 @@ Welcome to the Introduction to **Object-Oriented Programming (OOP) using Java** 
 ## OBJECT ORIENTED PROGRAMMING THROUGH JAVA LAB
 ### Lists of Experiments
 
-1.   Try debug step by step with small program of about 10 to 15 lines which contains at least one if else condition and a for loop(Printing Prime numbers in a given range).
+1.   Try debug step by step with small program of about 10 to 15 lines which contains at least one if else condition and a for loop(Printing Prime numbers in a given range).[solution](Prime.java)
 
 2.   Write a Java program that works as a simple calculator. Use a grid layout to arrange buttons for the digits and for the +, -,*, % operations. Add a text field to display the result. Handle any possible exceptions like divided by zero.
 
