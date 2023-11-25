@@ -44,7 +44,7 @@ public class GFG {
 	} 
 
 	public static void main(String args[]) { 
-		GFG.set("Rathod Avinash", 10000.0f); 
+		GFG.set("Laxmi Ganji", 10000.0f); 
 		GFG.get(); 
 	} 
 } 
